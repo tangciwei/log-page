@@ -8,5 +8,13 @@ module.exports = {
             __dirname + '/../../log-data/profit/profit.log'
         ],
         percent: 0.3
+    },
+    trade: {
+    	list: [
+	    	__dirname + '/../../log-data/trade/trade.log2017-10-28-09',
+	    	__dirname + '/../../log-data/trade/trade.log2017-10-28-15',
+	    	__dirname + '/../../log-data/trade/trade.log'
+    	]
     }
+
 };

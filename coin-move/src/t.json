@@ -1,0 +1,1063 @@
+[
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.01,
+        "num": 0.03756259,
+        "total": 215.34671434
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7612
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.1079623
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.10796232
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.09015022,
+        "total": 516.83391741
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.09,
+        "total": 518.65910956
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 1.8252
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.03756259,
+        "total": 215.34746559
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0375,
+        "total": 216.10796232
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.7605
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5774.1,
+        "num": 0.0075,
+        "total": 43.22159246
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.1521
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5770.71,
+        "num": 0.0075,
+        "total": 43.21441229
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.34,
+    "profit": 0.1449
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5770.71,
+        "num": 0.0075,
+        "total": 43.21441229
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.34,
+    "profit": 0.1449
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5770.71,
+        "num": 0.0075,
+        "total": 43.19749523
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.3,
+    "profit": 0.128
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5770.71,
+        "num": 0.0075,
+        "total": 43.19749523
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.3,
+    "profit": 0.128
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5733.03,
+        "num": 0.00751252,
+        "total": 43.06949312
+    },
+    "sell":
+    {
+        "price": 5770.71,
+        "num": 0.0075,
+        "total": 43.19749523
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.3,
+    "profit": 0.128
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5714.5,
+        "num": 0.02253756,
+        "total": 128.79085846
+    },
+    "sell":
+    {
+        "price": 5755.12,
+        "num": 0.0225,
+        "total": 129.23849615
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.4476
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5714.5,
+        "num": 0.02253756,
+        "total": 128.79085846
+    },
+    "sell":
+    {
+        "price": 5755.12,
+        "num": 0.0225,
+        "total": 129.23849615
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.4476
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5714.5,
+        "num": 0.02253756,
+        "total": 128.79085846
+    },
+    "sell":
+    {
+        "price": 5755.12,
+        "num": 0.0225,
+        "total": 129.23849615
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.35,
+    "profit": 0.4476
+},
+{
+    "market": "BTC-USDT",
+    "buy":
+    {
+        "price": 5715,
+        "num": 0.02253756,
+        "total": 128.80212724
+    },
+    "sell":
+    {
+        "price": 5755.12,
+        "num": 0.0225,
+        "total": 129.23849616
+    },
+    "direction": ["binance", "poloniex"],
+    "percent": 0.34,
+    "profit": 0.4364
+}]
